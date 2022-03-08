@@ -1,0 +1,27 @@
+--- OLD ---
+
+light green: #12d640
+dark green: #1c7d32
+dark green 2: #1c7d32
+Contact text green: #28a745
+
+
+dark blue: #09203a
+
+dark blue background: #010e1b
+
+Hover blue: #007bff -------------------------> #494949
+
+old text underline (KEEPING): #9e7f25;
+
+
+--- NEW ---
+
+light pink: #fa2a8b
+dark pink: #9c1655
+dark pink2: #91144e
+
+
+
+dark gray background: #242424
+darker gray background: #333333
