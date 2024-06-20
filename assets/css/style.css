@@ -1060,6 +1060,14 @@ section .container {
   background: #15bb62;
 }
 
+.certification {
+  color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
