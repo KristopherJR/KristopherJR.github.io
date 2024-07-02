@@ -1108,6 +1108,18 @@ section .container {
   text-decoration-color: #fa2a8b;
 }
 
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.icon-container img {
+  height: 80px;
+  margin: 10px;
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
