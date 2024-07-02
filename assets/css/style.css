@@ -1066,7 +1066,7 @@ section .container {
 }
 
 .certification span {
-  color: black;
+  color: var(--dark);
 }
 
 .certification img {
